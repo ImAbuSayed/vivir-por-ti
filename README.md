@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-por-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Vivir por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-por-ti/) |
+| **Get License** | [Get a Licensing Quote for Vivir por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-por-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late nights, your body's calling my name
+> The rhythm of your heartbeat drives me insane
+> One touch and I'm lost in your flame
+> Vivir por ti, I'll never be the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
