@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-por-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Vivir por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-por-ti/) |
+| **Get License** | [Music Rights & Licensing for Vivir por ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-por-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8f0a87eeb1cd9d42dad2b27db476ebc12dffefb9571df23b08e6422549c8207a` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

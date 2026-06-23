@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir por ti
+
+This log tracks the cryptographic history and versioning for the song **Vivir por ti** (vivir-por-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:03:56.762984 | `v1` | `8f0a87eeb1cd9d42dad2b27db476ebc12dffefb9571df23b08e6422549c8207a` | `a8e231eabd7faaa76f2fe6f90957d7da12c7d0be61a4b8f5ecd72b1f39b2f2a6` | `2026-06-23_vivir-por-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
